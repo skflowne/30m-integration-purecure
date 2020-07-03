@@ -48,7 +48,7 @@ export default {
       livereload({
         watch: "public",
         clientUrl:
-          "https://5000-bea0a98c-b69d-4481-a717-22e81492a541.ws-eu01.gitpod.io/livereload.js?snipver=1&port=443",
+          "https://35729-bea0a98c-b69d-4481-a717-22e81492a541.ws-eu01.gitpod.io/livereload.js?snipver=1&port=443",
       }),
 
     // If we're building for production (npm run build
